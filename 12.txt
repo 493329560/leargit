@@ -1,7 +1,3 @@
 134abcefasfasdfadfasfafj5+123
-<<<<<<< HEAD
-
 the thrid hang
-=======
 add final
->>>>>>> f5d069b0660c68ee2b8cfde75c9708ddc17bb1cd
